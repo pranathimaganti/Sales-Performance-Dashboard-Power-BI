@@ -55,7 +55,7 @@ The data model follows a **Star Schema** design.
 - FactSales[ProductID] → DimProduct[ProductID]
 - FactSales[CustomerID] → DimCustomer[CustomerID]
 - FactSales[Category] → Targets[Category]
-- FactSales[Country] → DimRegion[Country]
+
 
 All relationships are:
 - One-to-many
