@@ -23,7 +23,7 @@ The project uses Excel files as the primary data source:
 - **DimDate** – Calendar table for time intelligence  
 - **DimProduct** – Product details  
 - **DimCustomer** – Customer details  
-- **DimRegion** – Geographic information  
+
 
 ---
 
