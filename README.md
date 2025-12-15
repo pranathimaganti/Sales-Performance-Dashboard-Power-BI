@@ -47,7 +47,6 @@ The data model follows a **Star Schema** design.
 - **DimDate**
 - **DimProduct**
 - **DimCustomer**
-- **DimRegion**
 - **Targets**
 
 ### Relationships Added
